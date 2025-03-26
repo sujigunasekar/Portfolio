@@ -49,6 +49,7 @@ Upload to GitHub Pages for free hosting.
 
 ## PROGRAM
 ### HTML
+De
 ```
 <!DOCTYPE html>
 <html lang="en">
@@ -430,7 +431,7 @@ footer p {
 ```
 
 ## OUTPUT
-![image](https://github.com/user-attachments/assets/eb13376a-11a5-47a8-b4d9-d68ff93e90d4)
+![Screenshot 2025-03-26 093449](https://github.com/user-attachments/assets/5a962477-dddf-4f2c-9e7c-23ee3a4abe09)
 
 ![Screenshot 2025-03-26 093526](https://github.com/user-attachments/assets/efde8cbd-1799-46f9-82aa-a27a0184339d)
 
